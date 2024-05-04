@@ -1,0 +1,14 @@
+{
+  "name": "nextjs-01-v14.x.x",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "turbo dev"
+  },
+  "author": "Helekin",
+  "license": "ISC",
+  "workspaces": [
+    "apps/*"
+  ]
+}
